@@ -57,3 +57,10 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@anna.braze.com:443?encryption=none&
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ishaan.ns.cloudflare.com:443?encryption=none&security=tls&sni=fatwith.us.kg&type=ws&host=fatwith.us.kg&path=%3Fed%3D2560#cf
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@kristin.ns.cloudflare.com:443?encryption=none&security=tls&sni=fatwith.us.kg&type=ws&host=fatwith.us.kg&path=%3Fed%3D2560#cf
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@trey.ns.cloudflare.com:443?encryption=none&security=tls&sni=fatwith.us.kg&type=ws&host=fatwith.us.kg&path=%3Fed%3D2560#cf
+vless://9c377751-a45d-40c9-b251-2b5a6d6afc32@104.24.54.159:443?encryption=none&security=tls&sni=freenmui.pages.dev&fp=random&type=ws&host=freenmui.pages.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://9c377751-a45d-40c9-b251-2b5a6d6afc32@172.64.131.220:443?encryption=none&security=tls&sni=freenmui.pages.dev&fp=random&type=ws&host=freenmui.pages.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://9c377751-a45d-40c9-b251-2b5a6d6afc32@104.16.229.66:443?encryption=none&security=tls&sni=freenmui.pages.dev&fp=random&type=ws&host=freenmui.pages.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://9c377751-a45d-40c9-b251-2b5a6d6afc32@104.24.62.41:443?encryption=none&security=tls&sni=freenmui.pages.dev&fp=random&type=ws&host=freenmui.pages.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://9c377751-a45d-40c9-b251-2b5a6d6afc32@104.16.93.9:443?encryption=none&security=tls&sni=freenmui.pages.dev&fp=random&type=ws&host=freenmui.pages.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://9c377751-a45d-40c9-b251-2b5a6d6afc32@13.40.42.44:443?encryption=none&security=tls&sni=freenmui.pages.dev&fp=random&type=ws&host=freenmui.pages.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://9c377751-a45d-40c9-b251-2b5a6d6afc32@52.37.220.243:443?encryption=none&security=tls&sni=freenmui.pages.dev&fp=random&type=ws&host=freenmui.pages.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
